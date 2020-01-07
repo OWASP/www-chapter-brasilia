@@ -9,12 +9,7 @@ region: Latin America
 
 
 ---
-# Redes Sociais
-[Telegram](https://telegram.me/secbsb)
-[FaceBook](https://www.facebook.com/OWASPBSB/)
-[MeetUP](https://www.meetup.com/pt-BR/OWASPBSB/)
-
-# Liderança
+## Liderança
 É com enorme prazer e muito motivado que venho anunciar para todos sobre a nova liderança do OWASP - capítulo Brasília. Após conversa e aval dos antigos líderes fomos indicados e aceitos pelos representantes da OWASP.
 
 Aproveito a oportunidade para falar sobre o excelente trabalho realizado nos últimos anos pelos amigos: Diogo Rispoli, Breno Silva, Ismael Gonçalves e Klaubert Herr da Silveira.
