@@ -13,9 +13,7 @@ region: Latin America
 
 # Redes Sociais
 **[Telegram](https://telegram.me/owaspbsb)
-
 **[FaceBook](https://www.facebook.com/OWASPBSB/)
-
 **[MeetUP](https://www.meetup.com/pt-BR/OWASPBSB/)
 
 # Liderança
