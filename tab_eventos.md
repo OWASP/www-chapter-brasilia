@@ -9,11 +9,9 @@ tags: owaspbsb
 ---
 
 # Eventos
-## Próximos Eventos
-### 3º CyberSecurity Conference OWASP BSB 2020
-TBD (To Be Defined)
 
-## Eventos - 2019
+## Próximos Eventos
+
 ### 2º CyberSecurity Conference OWASP BSB 2019
 
 <div style="text-align: justify;">
@@ -34,8 +32,8 @@ participantes poderem trocar experiências.
   - **Inscrição**:
     <https://www.sympla.com.br/2-cybersecurity-conference-by-owasp-brasilia-2019__579825>
   - **Data:** 21/09/2019 (08h00 às 18h00)
-  - **Local:** Auditorio do Departamento de Ciência da Computação - CIC
-  - **Endereço**: Departamento de Ciência da Computação - CIC  - Campus
+  - **Local:** Auditorio do Departamento de Ciência da Computação - CIC
+  - **Endereço**: Departamento de Ciência da Computação - CIC  - Campus
     Darcy Ribeiro, Asa Norte, Brasília - DF. CEP 70910-900
   - **Valores**: ***Gratuito (Free of charge)***
 
@@ -74,6 +72,8 @@ participantes poderem trocar experiências.
     de inscrição em nosso canal no Telegram (https://t.me/owaspbsb)
 
 </div>
+
+## Eventos - 2019
 
 ### 1º CyberSecurity Conference OWASP BSB 2019
 
@@ -188,16 +188,16 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
 | HORÁRIO | PALESTRANTE    | TALK                                                                                         |
 | ------- | -------------- | -------------------------------------------------------------------------------------------- |
 | 8:30    | Credenciamento |                                                                                              |
-| 9:00    | Alcyon Junior  | Abertura                                                                                     |
-| 9:30    | Laios Barbosa  | Defesa Contra Ataques Avançados - Preparação e Emprego de Equipes de Segurança da Informação |
-| 10:15   | Artur          | Segurança para IoT                                                                           |
-| 11:00   | Laios Barbosa  | Técnicas de Pivoteamento e Movimento Lateral em Testes de Invasão de Redes                   |
-| 11:45   | Jow            | Cross-Domain Deep Face Matching for Banking Security Systems                                 |
+| 9:00    | Alcyon Junior  | Abertura                                                                                     |
+| 9:30    | Laios Barbosa  | Defesa Contra Ataques Avançados - Preparação e Emprego de Equipes de Segurança da Informação |
+| 10:15   | Artur          | Segurança para IoT                                                                           |
+| 11:00   | Laios Barbosa  | Técnicas de Pivoteamento e Movimento Lateral em Testes de Invasão de Redes                   |
+| 11:45   | Jow            | Cross-Domain Deep Face Matching for Banking Security Systems                                 |
 | 12:30   | Almoço         |                                                                                              |
 | 13:30   | Alcyon Junior  | SEGURANÇA DA INFORMAÇÃO E A TRANSFORMAÇÃO DIGITAL: COMO SOBREVIVER NESTE NOVO CENÁRIO        |
 | 14:15   | Marcos Cicero  | Security Awareness Trainings: The paranoids\!                                                |
-| 15:00   | Fábio Henrique | Broken Authentication and Session Management - Privilege Escalation - CBC Bit Flipping       |
-| 15:45   | Convidados     | Mesa redonda sobre a Profissão de Segurança da Informação                                    |
+| 15:00   | Fábio Henrique | Broken Authentication and Session Management - Privilege Escalation - CBC Bit Flipping       |
+| 15:45   | Convidados     | Mesa redonda sobre a Profissão de Segurança da Informação                                    |
 
 \*\* As palestras ainda poderão ser alteradas até a data do evento
 
@@ -279,20 +279,19 @@ nós da área de SIC no DF, para aumentar nossa comunidade e torná-la
 mais unida\!\!\!**
 
 **Data:** Quinta-Feira, dia 30/03/2017 das 19:00 até 22:00
-*'Local: **Carcassonne Pub - CLN 203 Bl. C lj 37, 70833-530 Brasília -
+*'Local: **Carcassonne Pub - CLN 203 Bl. C lj 37, 70833-530 Brasília -
 Distrito Federal
 **Inscrições:*' <http://meetu.ps/385PGW>
 '''Programação de Palestras e Workshops:
 **<http://confraria0day.com.br/>
 **Download das palestras e WorkShop:
 '''<http://confraria0day.com.br/edicoes/>
-
 **Teremos algumas palestras já confirmadas pelo nosso parceiro que
 são:**
 
 **Palestra: Inteligência Artificial Aplicada ao Web Hacking**
 
-Descrição:  A Inteligência Artificial tem sido bem sucedida em resolver
+Descrição:  A Inteligência Artificial tem sido bem sucedida em resolver
 diversos problemas complexos em ramos tão distintos como jogar Xadrez,
 Poker e GO, e até mesmo dirigir um carro de maneira autônoma. Utilizando
 novos paradigmas, veremos como é possível aplicar conceitos e algoritmos
@@ -346,14 +345,11 @@ Distrito Federal
 <https://goo.gl/forms/yJzM3Xc86R8WcKXY2>
 **Programação de Palestras e Workshops: **<https://goo.gl/uaEiiK>
 **Download das palestras e WorkShop: '''<https://goo.gl/JHVhOm>
-
 ### 1° Encontro OWASP BSB 2016
-
 A nova liderança do capítulo da OWASP em Brasília convida para o
 primeiro evento de 2016 GRATUITO, de interesse de desenvolvedores,
 profissionais de segurança da informação, estudantes das áreas de
 computação e Tecnologia da Informação e demais interessados no assunto.
-
 **Data:** Sábado, dia 04/06/2016 das 09:00 até 17:00
 **Local:** Auditório da Faculdade de Tecnologia no Campus Darcy Ribeiro
 - Universidade de Brasília - Asa Norte - Brasília - Distrito Federal
@@ -677,3 +673,4 @@ Brasil.
 ### Encontro OWASP Brasília - 19/09/2011 - UnB
 
 ### Encontro OWASP Brasília - 09/05/2011 - UnB
+
