@@ -11,6 +11,11 @@ region: Latin America
 ---
 <paypal>Brazil</paypal>
 
+# Redes Sociais
+**[Telegram](https://telegram.me/owaspbsb)
+**[FaceBook](https://www.facebook.com/OWASPBSB/)
+**[MeetUP](https://www.meetup.com/pt-BR/OWASPBSB/)
+
 # Liderança
 É com enorme prazer e muito motivado que venho anunciar para todos sobre a nova liderança do OWASP - capítulo Brasília. Após conversa e aval dos antigos líderes fomos indicados e aceitos pelos representantes da OWASP.
 
@@ -22,9 +27,5 @@ Esperamos continuar realizando um trabalho agregador e disseminador de conhecime
 
 Grateful and sincerely,
 [Alcyon Junior](https://www.owasp.org/index.php/User:Alcyon.junior)
-\= Mídias Oficiais = **[Telegram](https://telegram.me/owaspbsb)**
-**[FaceBook](https://www.facebook.com/OWASPBSB/)**
-[MeetUP](https://www.meetup.com/pt-BR/OWASPBSB/)
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Brasil](Category:Brasil "wikilink")
+
