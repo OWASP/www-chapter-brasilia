@@ -1,5 +1,6 @@
 ---
 title: Eventos
+displaytext: Eventos OWASP BSB
 layout:  null
 tab: true
 order: 2
