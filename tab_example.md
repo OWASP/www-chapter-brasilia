@@ -1,12 +1,12 @@
 ---
-title: Eventos
+title: Example
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-# Eventos
+## Example
 
 ## Próximos Eventos
 
