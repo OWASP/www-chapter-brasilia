@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Brasilia
-tags: example-tag
+tags: owaspbsb
 level: 0
 
 region: Latin America
