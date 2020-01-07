@@ -9,8 +9,6 @@ region: Latin America
 
 
 ---
-<paypal>Brazil</paypal>
-
 # Redes Sociais
 **[Telegram](https://telegram.me/owaspbsb)
 
@@ -28,6 +26,6 @@ A nova equipe é composta pelos seguintes membros: [Alcyon Junior](https://www.o
 Esperamos continuar realizando um trabalho agregador e disseminador de conhecimento em Brasília na área de Segurança da Informação. O ponto focal da nova equipe é rapidamente agitar a comunidade de profissionais de Segurança da Informação e Comunicações, realizando encontros e eventos para bater papo de forma bem descontraída. Vamos agitar a galera de Segurança da Capital Federal para formarmos um\ grupo totalmente integrado.
 
 Grateful and sincerely,
-[Alcyon Junior](https://www.owasp.org/index.php/User:Alcyon.junior)
+[Alcyon Junior](https://www.linkedin.com/in/alcyon/)
 
 
