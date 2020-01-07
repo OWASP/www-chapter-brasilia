@@ -1,6 +1,6 @@
 ---
 
-title: Eventos
+title: Eventos Passados
 layout:  null
 tab: true
 order: 1
@@ -8,9 +8,9 @@ tags: owaspbsb
 
 ---
 
-# Eventos
+# Eventos Passados
 
-## Próximos Eventos
+## Eventos - 2019
 
 ### 2º CyberSecurity Conference OWASP BSB 2019
 
@@ -73,7 +73,6 @@ participantes poderem trocar experiências.
 
 </div>
 
-## Eventos - 2019
 
 ### 1º CyberSecurity Conference OWASP BSB 2019
 
