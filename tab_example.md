@@ -6,7 +6,7 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+# Example
 
 ## Próximos Eventos
 
