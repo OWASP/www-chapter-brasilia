@@ -1,21 +1,17 @@
 ---
 title: Eventos
-displaytext: Eventos OWASP BSB
 layout:  null
 tab: true
 order: 2
-tags: eventos-tag
+tags: owaspbsb
 ---
 
 # Eventos
-
 ## Próximos Eventos
-
 ### 3º CyberSecurity Conference OWASP BSB 2020
 TBD (To Be Defined)
 
 ## Eventos - 2019
-
 ### 2º CyberSecurity Conference OWASP BSB 2019
 
 <div style="text-align: justify;">
