@@ -24,3 +24,8 @@ Grateful and sincerely,
 Próximos Eventos
 ---------------------
 TBD - TO BE DEFINED
+
+
+O que é a OWASP?
+---------------------
+A OWASP Foundation é uma associação profissional de membros globais e está aberta a qualquer pessoa interessada em aprender mais sobre segurança de software. Os capítulos locais são executados de forma independente. Como associação profissional sem fins lucrativos. 
