@@ -21,6 +21,6 @@ Grateful and sincerely,
 [Alcyon Junior](https://www.linkedin.com/in/alcyon/)
 
 
-Next Meeting/Event(s)
+Próximos Eventos
 ---------------------
 TBD - TO BE DEFINED
