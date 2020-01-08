@@ -1,7 +1,7 @@
-### Brasília Information
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+### Informações sobre a OWASP
+* [Torne-se um Membro](https://www.owasp.org/index.php/Membership)
+* [Termo de compromisso de Palestrante](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Codigo de Conduta](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
 * [FaceBook](https://www.facebook.com/OWASPBSB/)
