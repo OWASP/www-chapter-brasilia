@@ -1,5 +1,5 @@
 ### Informações sobre a OWASP
-* [Torne-se um Membro](https://www.owasp.org/index.php/Membership)
+* [Torne-se um Membro OWASP](https://www.owasp.org/index.php/Membership)
 * [Termo de compromisso de Palestrante](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Codigo de Conduta](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
