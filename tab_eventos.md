@@ -8,8 +8,6 @@ tags: owaspbsb
 
 ---
 
-# Eventos Passados
-
 ## Eventos - 2019
 
 ### 2º CyberSecurity Conference OWASP BSB 2019
