@@ -23,4 +23,4 @@ Grateful and sincerely,
 
 Next Meeting/Event(s)
 ---------------------
-### TBD - TO BE DEFINED
+TBD - TO BE DEFINED
