@@ -11,21 +11,18 @@ tags: owaspbsb
 # Eventos Passados
 ## Eventos - 2019
 ### 2º CyberSecurity Conference OWASP BSB 2019
-
-<div style="text-align: justify;">
-
 Neste segundo evento de 2019, a liderança do capítulo OWASP Brasília
 realizará mais um evento. Será realizado em um formato ja conhecido, em
 um ambiente acolhedor e sempre com uma pegada bem técnica. Nós
 contaremos com minicursos, palestras, espaço de convivência para os
 participantes poderem trocar experiências.
 
-**Chamadas**
+#### **Chamadas**
 
   - CFP - Call for Papers: <https://forms.gle/5Qrn6esW6pPG57JN9>
   - Chamada de Voluntários: <https://forms.gle/he9NuwAHLxm7D8XQ7>
 
-**Informações do Evento**
+#### **Informações do Evento**
 
   - **Inscrição**:
     <https://www.sympla.com.br/2-cybersecurity-conference-by-owasp-brasilia-2019__579825>
@@ -35,13 +32,13 @@ participantes poderem trocar experiências.
     Darcy Ribeiro, Asa Norte, Brasília - DF. CEP 70910-900
   - **Valores**: ***Gratuito (Free of charge)***
 
-**Formato do evento**
+#### **Formato do evento**
 
-**Palestras**
+#### **Palestras**
 
   - Palestras de 45 min com perguntas incluídas
 
-**Minicursos exclusivos (03 minicursos)**
+#### **Minicursos exclusivos (03 minicursos)**
 
   - Turma de somente 30 pessoas que se inscreveram no site;
   - 3 horas por minicurso;
@@ -49,32 +46,28 @@ participantes poderem trocar experiências.
     repassados pelos instrutores para viabilizar o minicurso;
   - O notebook deverá ser levado pelo próprio aluno.
 
-**CTF - Capture The Flag**
+#### **CTF - Capture The Flag**
 
   - O CTF desse evento serão divulgadas na semana do evento em um link
     de inscrição em nosso canal no Telegram (https://t.me/owaspbsb)
 
-**Programação**
+#### **Programação**
 
-**Palestras**
-
-  - TBD - To be defined
-
-**Minicursos exclusivos (03 minicursos)**
+##### **Palestras**
 
   - TBD - To be defined
 
-**CTF - Capture The Flag**
+##### **Minicursos exclusivos (03 minicursos)**
+
+  - TBD - To be defined
+
+##### **CTF - Capture The Flag**
 
   - O CTF desse evento serão divulgadas na semana do evento em um link
     de inscrição em nosso canal no Telegram (https://t.me/owaspbsb)
 
-</div>
 
 ### 1º CyberSecurity Conference OWASP BSB 2019
-
-<div style="text-align: justify;">
-
 Neste ano de 2019, a liderança do capítulo da OWASP em Brasília,
 realizará um evento inovador para os nossos padrões. Esse evento será
 realizado em um novo formato único, além de mais acolhedor e mais
@@ -86,7 +79,7 @@ profissionais de Segurança da Informação que estarão presente.
 Contaremos com um serviço de coffee break durante todo o evento já
 incluso no valor da palestra e um espaço exclusivo para lanches.
 
-**Informações do Evento**
+#### **Informações do Evento**
 
   - **Data:** 15/03/2019 (19h00 às 23h00) e 16/03/2019 (09h00 às 17h00)
   - **Local:** UNIWORK - <https://www.facebook.com/uniwork.bsb/>
@@ -98,7 +91,7 @@ incluso no valor da palestra e um espaço exclusivo para lanches.
   - **Capture The Flag (CTF) -** Será divulgado na abertura do evento e
     em nosso canal no Telegram <https://t.me/owaspbsb>
 
-**O evento abrange tópicos como:**
+#### **O evento abrange tópicos como:**
 
   - Segurança de aplicativo da web
   - Segurança de aplicativos móveis
@@ -111,7 +104,7 @@ incluso no valor da palestra e um espaço exclusivo para lanches.
   - Segurança corporativa
   - Resposta ao incidente
 
-**Este evento é pra quem?**
+#### **Este evento é pra quem?**
 
   - Desenvolvedores
   - Administradores do sistema
@@ -123,7 +116,6 @@ incluso no valor da palestra e um espaço exclusivo para lanches.
   - Qualquer pessoa interessada em aprender e compartilhar conhecimento
     sobre segurança de computadores
 
-</div>
 
 ## Eventos - 2018
 
