@@ -1,13 +1,4 @@
----
-
-title: Eventos
-layout:  null
-tab: true
-order: 1
-tags: owaspbsb
-
----
-
+OLD
 ## Eventos - 2019
 
 ### 2º CyberSecurity Conference OWASP BSB 2019
