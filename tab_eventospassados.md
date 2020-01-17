@@ -9,7 +9,9 @@ tags: owaspbsb
 ---
 
 # Eventos Passados
+---------------------
 ## Eventos - 2019
+---------------------
 ### 2º CyberSecurity Conference OWASP BSB 2019
 Neste segundo evento de 2019, a liderança do capítulo OWASP Brasília
 realizará mais um evento. Será realizado em um formato ja conhecido, em
@@ -116,9 +118,9 @@ incluso no valor da palestra e um espaço exclusivo para lanches.
   - Qualquer pessoa interessada em aprender e compartilhar conhecimento
     sobre segurança de computadores
 
-
+---------------------
 ## Eventos - 2018
-
+---------------------
 ### 2° Encontro OWASP BSB 2018
 
 Faremos o 2° Encontro OWASP BSB 2018 dentro da Campus Party Brasília 2
@@ -217,10 +219,9 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
 \*\* Mais informações no site oficial -
 <https://www.owasp.org/index.php/LatamTour2018>
 
-</div>
-
+---------------------
 ## Eventos 2017
-
+---------------------
 ### 2° Mix-Meetup OWASP BSB 2017 com DEFCON Group Brasilia
 
 O 2° Mix-Meetup OWASP BSB 2017 com DEFCON Group Brasilia será um evento
@@ -313,8 +314,9 @@ consultor na F5 Networks para as Américas e faz parte do time de
 modelagem de ameaças para os produtos F5. Escreve quando há tempo no
 blog <https://sharingsec.blogspot.com>.
 
+---------------------
 ## Eventos 2016
-
+---------------------
 ### 2° Encontro OWASP BSB 2016
 
 O capítulo da OWASP em Brasília convida para o segundo evento de 2016
@@ -381,8 +383,14 @@ atividades de exfiltração de dados ocultas por rootkits b
 #### **Faça o Download do seu certificado:** [Dowanload do
 Certificado](https://www.doity.com.br/1-encontro-owasp-2016/certificados)
 
-## Eventos 2014
+---------------------
+## Eventos 2015
+---------------------
+Não houve nenhum 
 
+---------------------
+## Eventos 2014
+---------------------
 ### 1° Encontro OWASP 2014 - IESB
 
 O capítulo da OWASP em Brasília convida para mais um evento gratuito, de
@@ -425,8 +433,10 @@ ataques de duas perspectivas: Na visão do DBA aonde ele terá que se
 defender do ataque, e na visão do Hacker que irá mostrar as diversas
 possibilidades de acesso ao Servidor de Banco de Dados, quem irá
 vencer?
-  
+
+---------------------
 ## Eventos 2013
+---------------------
 
 ### 2° Encontro OWASP 2013 - UnB
 
@@ -510,9 +520,9 @@ Palestrante: Klaubert Herr (Líder OWASP Cap. BSB)
 
 200 lugares.
 
-
+---------------------
 ## Eventos 2012
-
+---------------------
 ### Encontro OWASP Brasília - 29/10/2012 - UCB (Asa Norte - 916)
 
 #### **Agenda**
@@ -657,10 +667,11 @@ source WAF-FLE, uma console para o ModSecurity. Palestrante em
 conferências com OWASP AppSec (Brasil e Latam), CONISLI, SSI dentre
 outras. Atualmente é consultor em segurança de TI no Banco Central do
 Brasil.
- 
+
+---------------------
 ## Eventos 2011
-
+---------------------
 ### Encontro OWASP Brasília - 19/09/2011 - UnB
-
+Sem Histórico
 ### Encontro OWASP Brasília - 09/05/2011 - UnB
-
+Sem Histórico
