@@ -150,8 +150,6 @@ Abraços e curta seu desconto\!
 
 ### OWASP LATAM TOUR 2018 - BRASÍLIA
 
-<div style="text-align: justify;">
-
 A liderança do capítulo da OWASP em Brasília convida para o OWASP LATAM
 Tour. Esse é um evento realizado em toda a América Latina que promove a
 segurança de software com o objetivo de aumentar a conscientização sobre
@@ -160,7 +158,7 @@ enfrentando atualmente. O tour inclui países como Argentina, Bolívia,
 Chile, Colômbia, Equador, Guatemala, Peru, Honduras, República
 Dominicana, Uruguai, Venezuela, Brasil e México.
 
-#### **Informações do Evento**
+#### Informações do Evento
 
   - **Data:** **23/06/2018 - Confirmado\!\!\!**
   - **Local:** Auditório da Faculdade JK no Guára - Quadra QE 8 Área
@@ -173,25 +171,25 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
     realizará a competição de CTF em conjunto com o DC5561 (DEFCON Group
     Brasilia) durante todo evento. Aguardem mais informações\!\!\!
 
-#### **Programação do dia 23/06/2018**
+#### Programação do dia 23/06/2018
 
-| HORÁRIO | PALESTRANTE    | TALK                                                                                         |
-| ------- | -------------- | -------------------------------------------------------------------------------------------- |
-| 8:30    | Credenciamento |                                                                                              |
-| 9:00    | Alcyon Junior  | Abertura                                                                                     |
-| 9:30    | Laios Barbosa  | Defesa Contra Ataques Avançados - Preparação e Emprego de Equipes de Segurança da Informação |
-| 10:15   | Artur          | Segurança para IoT                                                                           |
-| 11:00   | Laios Barbosa  | Técnicas de Pivoteamento e Movimento Lateral em Testes de Invasão de Redes                   |
-| 11:45   | Jow            | Cross-Domain Deep Face Matching for Banking Security Systems                                 |
-| 12:30   | Almoço         |                                                                                              |
-| 13:30   | Alcyon Junior  | SEGURANÇA DA INFORMAÇÃO E A TRANSFORMAÇÃO DIGITAL: COMO SOBREVIVER NESTE NOVO CENÁRIO        |
-| 14:15   | Marcos Cicero  | Security Awareness Trainings: The paranoids\!                                                |
-| 15:00   | Fábio Henrique | Broken Authentication and Session Management - Privilege Escalation - CBC Bit Flipping       |
-| 15:45   | Convidados     | Mesa redonda sobre a Profissão de Segurança da Informação                                    |
+##### | HORÁRIO | PALESTRANTE    | TALK                                                                                         ##### |
+##### | ------- | -------------- | -------------------------------------------------------------------------------------------- |
+##### | 8:30    | Credenciamento |                                                                                              |
+##### | 9:00    | Alcyon Junior  | Abertura                                                                                     |
+##### | 9:30    | Laios Barbosa  | Defesa Contra Ataques Avançados - Preparação e Emprego de Equipes de Segurança da Informação |
+##### | 10:15   | Artur          | Segurança para IoT                                                                           |
+##### | 11:00   | Laios Barbosa  | Técnicas de Pivoteamento e Movimento Lateral em Testes de Invasão de Redes                   |
+##### | 11:45   | Jow            | Cross-Domain Deep Face Matching for Banking Security Systems                                 |
+##### | 12:30   | Almoço         |                                                                                              |
+##### | 13:30   | Alcyon Junior  | SEGURANÇA DA INFORMAÇÃO E A TRANSFORMAÇÃO DIGITAL: COMO SOBREVIVER NESTE NOVO CENÁRIO        |
+##### | 14:15   | Marcos Cicero  | Security Awareness Trainings: The paranoids\!                                                |
+##### | 15:00   | Fábio Henrique | Broken Authentication and Session Management - Privilege Escalation - CBC Bit Flipping       |
+##### | 15:45   | Convidados     | Mesa redonda sobre a Profissão de Segurança da Informação                                    |
 
 \*\* As palestras ainda poderão ser alteradas até a data do evento
 
-#### **O evento abrange tópicos como:**
+#### O evento abrange tópicos como:
 
   - Segurança de aplicativo da web
   - Segurança de aplicativos móveis
@@ -204,7 +202,7 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
   - Segurança corporativa
   - Resposta ao incidente
 
-#### **Este evento é pra quem?**
+#### Este evento é pra quem?
 
   - Desenvolvedores
   - Administradores do sistema
