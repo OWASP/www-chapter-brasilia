@@ -158,7 +158,7 @@ enfrentando atualmente. O tour inclui países como Argentina, Bolívia,
 Chile, Colômbia, Equador, Guatemala, Peru, Honduras, República
 Dominicana, Uruguai, Venezuela, Brasil e México.
 
-**Informações do Evento**
+#### **Informações do Evento**
 
   - **Data:** **23/06/2018 - Confirmado\!\!\!**
   - **Local:** Auditório da Faculdade JK no Guára - Quadra QE 8 Área
@@ -171,7 +171,7 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
     realizará a competição de CTF em conjunto com o DC5561 (DEFCON Group
     Brasilia) durante todo evento. Aguardem mais informações\!\!\!
 
-**Programação do dia 23/06/2018**
+#### **Programação do dia 23/06/2018**
 
 | HORÁRIO | PALESTRANTE    | TALK                                                                                         |
 | ------- | -------------- | -------------------------------------------------------------------------------------------- |
@@ -189,7 +189,7 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
 
 \*\* As palestras ainda poderão ser alteradas até a data do evento
 
-**O evento abrange tópicos como:**
+#### **O evento abrange tópicos como:**
 
   - Segurança de aplicativo da web
   - Segurança de aplicativos móveis
@@ -202,7 +202,7 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
   - Segurança corporativa
   - Resposta ao incidente
 
-**Este evento é pra quem?**
+#### **Este evento é pra quem?**
 
   - Desenvolvedores
   - Administradores do sistema
@@ -277,7 +277,7 @@ Distrito Federal
 **Teremos algumas palestras já confirmadas pelo nosso parceiro que
 são:**
 
-**Palestra: Inteligência Artificial Aplicada ao Web Hacking**
+#### **Palestra: Inteligência Artificial Aplicada ao Web Hacking**
 
 Descrição:  A Inteligência Artificial tem sido bem sucedida em resolver
 diversos problemas complexos em ramos tão distintos como jogar Xadrez,
@@ -293,7 +293,7 @@ etc. Criou exploits para diversas falhas em servidores e aplicativos.
 Seu foco atual de pesquisa é IA aplicada à Segurança da Informação e
 Criptanálise Aplicada.
 
-**Palestra:Cabeçalhos de Segurança HTTP**
+#### **Palestra:Cabeçalhos de Segurança HTTP**
 
 Descrição: A palestra apresenta os principais cabeçalhos de segurança
 HTTP e suas características. Os cabeçalhos de segurança HTTP podem
@@ -322,33 +322,33 @@ que sempre será GRATUITO, de interesse de profissionais: de
 desenvolvolvimento, de segurança da informação, estudantes das áreas de
 computação, Tecnologia da Informação e demais interessados no assunto.
 
-**Data:** Sábado, dia 12/11/2016 das 09:00 até 15:00
+#### **Data:** Sábado, dia 12/11/2016 das 09:00 até 15:00
 *'Local: **Auditório da Faculdade de Tecnologia Engenharia Elétrica no
 Campus Darcy Ribeiro - Universidade de Brasília - Asa Norte - Brasília -
 Distrito Federal
-**Inscrições:*' <https://goo.gl/uaEiiK>
+#### **Inscrições:*' <https://goo.gl/uaEiiK>
 '''Call 4 Papers: **ENCERRADO -
 <https://goo.gl/forms/yJzM3Xc86R8WcKXY2>
 **Call 4 Workshops: **ENCERRADO -
 <https://goo.gl/forms/yJzM3Xc86R8WcKXY2>
-**Programação de Palestras e Workshops: **<https://goo.gl/uaEiiK>
-**Download das palestras e WorkShop: '''<https://goo.gl/JHVhOm>
+#### **Programação de Palestras e Workshops: **<https://goo.gl/uaEiiK>
+#### **Download das palestras e WorkShop: '''<https://goo.gl/JHVhOm>
 ### 1° Encontro OWASP BSB 2016
 A nova liderança do capítulo da OWASP em Brasília convida para o
 primeiro evento de 2016 GRATUITO, de interesse de desenvolvedores,
 profissionais de segurança da informação, estudantes das áreas de
 computação e Tecnologia da Informação e demais interessados no assunto.
-**Data:** Sábado, dia 04/06/2016 das 09:00 até 17:00
-**Local:** Auditório da Faculdade de Tecnologia no Campus Darcy Ribeiro
+#### **Data:** Sábado, dia 04/06/2016 das 09:00 até 17:00
+#### **Local:** Auditório da Faculdade de Tecnologia no Campus Darcy Ribeiro
 - Universidade de Brasília - Asa Norte - Brasília - Distrito Federal
-**Inscrições para Congressista:** [Link para
+#### **Inscrições para Congressista:** [Link para
 inscrição](http://bit.ly/owaspmeeting)
-**Call for Papers:** [Link para envio de
+#### **Call for Papers:** [Link para envio de
 palestras](http://bit.ly/call4papersowaspbsbmeeting)
-**Palestrantes:** [Conheça nossos
+*#### *Palestrantes:** [Conheça nossos
 palestrantes](https://doity.com.br/1-encontro-owasp-2016/palestrantes)
 
-**Capture The Flag** - [Podem esquentar seus
+#### **Capture The Flag** - [Podem esquentar seus
 processadores\!\!\!](http://bit.ly/ctfowaspbsb)
 Pela primeira vez, o Capítulo OWASP Brasília realizará uma competição de
 CTF. Ela ocorrerá dia 04/06 durante o 1° Encontro OWASP BSB 2016. A
@@ -363,7 +363,7 @@ CTF](http://goo.gl/forms/4iZWXkNUQNqH5oqp2)
 **OBSERVAÇÃO: Somente poderá participar quem se inscrever nos dois links
 acima\!\!\!**
 
-**Programação de Palestras e Workshops** [Calendário de atividades do
+#### **Programação de Palestras e Workshops** [Calendário de atividades do
 evento](https://doity.com.br/1-encontro-owasp-2016/calendario)
 09:00 - Credenciamento
 09:30 - O que é OWASP? É de comer ou de beber?
@@ -378,7 +378,7 @@ choice.
 17:00 - MADEC: Arquitetura multiagente imunoinspirada para identificar
 atividades de exfiltração de dados ocultas por rootkits b
 18:00 - Encerramento
-**Faça o Download do seu certificado:** [Dowanload do
+#### **Faça o Download do seu certificado:** [Dowanload do
 Certificado](https://www.doity.com.br/1-encontro-owasp-2016/certificados)
 
 ## Eventos 2014
@@ -393,7 +393,7 @@ Data: 24/04/2014, 14h30 Local: Centro Universitário IESB. L2 Sul,
 613/614 Inscrições:
 <https://eventioz.com.br/e/encontro-owasp-brasilia-12014>
 
-Palestras
+#### Palestras
 
 Educational crackmes: a RE playground Palestrante: Marcos Cícero
 Crackmes educacionais são desafios de engenharia reversa cujo objetivo é
@@ -425,25 +425,26 @@ ataques de duas perspectivas: Na visão do DBA aonde ele terá que se
 defender do ataque, e na visão do Hacker que irá mostrar as diversas
 possibilidades de acesso ao Servidor de Banco de Dados, quem irá
 vencer?
-\== Eventos 2013 ==
+  
+## Eventos 2013
 
 ### 2° Encontro OWASP 2013 - UnB
 
-**Data**
+#### **Data**
 
 20/09/2013
 
-**Local**
+#### **Local**
 
 Auditório do Departamento de Engenharia Elétrica - Faculdade de
 Tecnologia - UnB
 Endereço: <http://goo.gl/PBcGIP>
 
-**Inscrição**
+#### **Inscrição**
 
 <http://goo.gl/NlmW7p> Garanta a sua vaga gratuitamente.
 
-**Agenda**
+#### **Agenda**
 
 **14:30** - Android Malware Analysis Toolkit
 Palestrante: Oscar Marques - Serpro
@@ -455,13 +456,13 @@ Palestrante: Mauricio da Silva Marinho - BRB
 seguro
 Palestrante: Diogo Rispoli - Lider OWASP-BSB
 
-**Capacidade**
+#### **Capacidade**
 
 200 lugares.
 
 ### 1° Encontro OWASP 2013 em Segurança Cibernética
 
-**Data**
+#### **Data**
 
 28/02/2013
 
@@ -469,13 +470,13 @@ Palestrante: Diogo Rispoli - Lider OWASP-BSB
 
 AUDITÓRIO DOS CORREIOS - EDIFÍCIO-SEDE
 Endereço: SBN QD. 01 Bloco A - Ed. Sede dos Correios - Brasília - DF
-**Inscrição**
+#### **Inscrição**
 
 Inscrições encerradas.
 Foram registradas 200 inscrições.
 ~~Garanta a sua vaga gratuitamente.~~
 
-**Agenda**
+#### **Agenda**
 
 **MANHÃ**
 
@@ -505,16 +506,16 @@ Federal)
 **16:20** - Web Application Firewall (WAF): Os Slides perdidos
 Palestrante: Klaubert Herr (Líder OWASP Cap. BSB)
 
-**Capacidade**
+#### **Capacidade**
 
 200 lugares.
 
 
-\== Eventos 2012 ==
+## Eventos 2012
 
 ### Encontro OWASP Brasília - 29/10/2012 - UCB (Asa Norte - 916)
 
-**Agenda**
+#### **Agenda**
 
 19:00 - Abertura
 
@@ -524,19 +525,19 @@ Palestrante: Klaubert Herr (Líder OWASP Cap. BSB)
 
 20:00 - OWASP Enterprise Security API (ESAPI), Tarcizio Vieira Neto.
 
-**Local**
+#### **Local**
 
 Universidade Católica de Brasília, W5 916 Norte - Auditório
 
-**Inscrição**
+#### **Inscrição**
 
 Gratuita, por ordem de chegada.
 
-**Capacidade**
+#### **Capacidade**
 
 40 lugares.
 
-**Palestrantes** *Marcos Cícero* - Formado na área de informática em
+#### **Palestrantes** *Marcos Cícero* - Formado na área de informática em
 1999 com especialização em telecomunicações pelo CEFET/RJ em 2003.
 Recém-ingressado no programa de mestrado em ciências da computação da
 Universidade de Liverpool, Inglaterra. 14 anos de experiência na área de
@@ -561,7 +562,7 @@ está liderando o projeto de tradução do documento Open SAMM.
 
 ### Ciclo de Palestras OWASP na ECT
 
-**Agenda**
+#### **Agenda**
 
 24/09 – 14:00 às 16:00 - OWASP - Top Ten 10 e Guia de Testes OWASP como
 frameworks para verificação de segurança em aplicações (Palestrantes:
@@ -574,20 +575,20 @@ ataque (Palestrantes: Klaubert Herr e Breno Silva);
 08/10 - 14:00 às 16:00 - Codificação defensiva (Palestrante: Diogo
 Rispoli).
 
-**Local**
+#### **Local**
 
 Sede da Empresa de Correios e Telégrafos (ECT) - Setor de Autarquias
 Norte
 
-**Inscrição**
+#### **Inscrição**
 
 Restrita a membros da ECT e seus convidados.
 
-**Capacidade**
+#### **Capacidade**
 
 200 lugares.
 
-**Palestrantes**
+#### **Palestrantes**
 
 *Ismael Rocha* - Especialista em segurança de aplicações, tendo
 trabalhado nos últimos anos com estratégias de proteção para aplicações
@@ -613,7 +614,7 @@ Brasil.
 
 ### Encontro OWASP Brasília - 27/08/2012 - UCB (Asa Norte - 916)
 
-**Agenda**
+#### **Agenda**
 
 19:00 - Abertura
 
@@ -627,19 +628,19 @@ verificação de segurança em aplicações (caso real), Ismael Rocha -
 Klaubert Herr -
 [slides](http://www.slideshare.net/owaspbsb/owasp-bsb-modsecurityklaubertherrv2012)
 
-**Local**
+#### **Local**
 
 Universidade Católica de Brasília, W5 916 Norte - sala B102
 
-**Inscrição**
+#### **Inscrição**
 
 Gratuita, por ordem de chegada.
 
-**Capacidade**
+#### **Capacidade**
 
 40 lugares.
 
-**Palestrantes**
+#### **Palestrantes**
 
 *Ismael Rocha* - Especialista em segurança de aplicações, tendo
 trabalhado nos últimos anos com estratégias de proteção para aplicações
@@ -656,7 +657,8 @@ source WAF-FLE, uma console para o ModSecurity. Palestrante em
 conferências com OWASP AppSec (Brasil e Latam), CONISLI, SSI dentre
 outras. Atualmente é consultor em segurança de TI no Banco Central do
 Brasil.
-\== Eventos 2011 ==
+ 
+## Eventos 2011
 
 ### Encontro OWASP Brasília - 19/09/2011 - UnB
 
