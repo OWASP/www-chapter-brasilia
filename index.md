@@ -7,10 +7,12 @@ level: 0
 region: South America
 
 ---
+
 ---------------------
 O que é a OWASP?
 ---------------------
 A OWASP Foundation é uma associação profissional de membros globais e está aberta a qualquer pessoa interessada em aprender mais sobre segurança de software. Os capítulos locais são executados de forma independente. Como associação profissional sem fins lucrativos. 
+
 ---------------------    
 OWASP Brasília
 ---------------------
@@ -21,6 +23,7 @@ Esperamos continuar realizando um trabalho agregador e disseminador de conhecime
 Grateful and sincerely,
  
 [Alcyon Junior](https://www.linkedin.com/in/alcyon/)
+
 ---------------------   
 Próximos Eventos
 ---------------------
