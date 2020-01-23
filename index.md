@@ -30,9 +30,9 @@ Grateful and sincerely,
 # Próximos Eventos
 ---------------------
 ## 3º CyberSecurity Conference OWASP BSB
-Local: BIOTIC
-Data: 16 e 17 de maio
-Demais informações ainda serão definidas.
+  - Local: BIOTIC
+  - Data: 16 e 17 de maio
+  - Demais informações ainda serão definidas.
   
 ---------------------
 # Call For Speakers
