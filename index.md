@@ -29,8 +29,9 @@ Grateful and sincerely,
 ---------------------
 # Próximos Eventos
 ---------------------
-TBD - TO BE DEFINED
-
+Local: BIOTIC
+Data: 16 e 17 de maio
+Demais informações ainda serão definidas.
   
 ---------------------
 # Call For Speakers
