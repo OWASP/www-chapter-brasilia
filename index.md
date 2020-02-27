@@ -32,7 +32,7 @@ Grateful and sincerely,
 #### 3º CyberSecurity Conference OWASP BSB
   - Local: BIOTIC - SEBRAELAB (Parque Tecnológico de Brasília, Lote 4 Edifício de Governança, Brasília - DF, 70635-815)
   - Data: 06 e 07 de Junho
-  - Demais informações ainda serão definidas.
+  - Demais informações disponibilizaremos em breve.
   
 ---------------------
 # Call For Speakers
