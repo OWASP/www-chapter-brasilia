@@ -30,10 +30,10 @@ Grateful and sincerely,
 # Próximos Eventos
 ---------------------
 #### 3º CyberSecurity Conference OWASP BSB
-  - Local: BIOTIC - SEBRAELAB (Parque Tecnológico de Brasília, Lote 4 Edifício de Governança, Brasília - DF, 70635-815)
+<s>  - Local: BIOTIC - SEBRAELAB (Parque Tecnológico de Brasília, Lote 4 Edifício de Governança, Brasília - DF, 70635-815)
   - Data: 06 e 07 de Junho
   - Demais informações disponibilizaremos em breve.
-  
+</s>  
 ---------------------
 # Call For Speakers
 ---------------------
