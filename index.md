@@ -5,6 +5,9 @@ title: OWASP Brasilia
 tags: owaspbsb
 level: 0
 region: South America
+meetup-group: OWASPBSB
+country: Brazil
+postal-code: 
 
 ---
 
