@@ -20,13 +20,13 @@ A OWASP Foundation é uma associação profissional de membros globais e está a
 ---------------------
 # OWASP Brasília
 ---------------------
-A liderança do capítulo OWASP de Brasília é composta pelos seguintes membros: [Alcyon Junior (a.k.a. AlcyJones)](https://www.linkedin.com/in/alcyon/), Marcos Cícero, André Miranda e Renato Pacheco (a.k.a.Shrimp). Tivemos alguns membros (amigos) que deixaram suas marcas aqui como: <s>Paulo Lamellas</s>(2016-2018), <s>Régio Lopes</s>(2016-2018) e <s>Rafael Salema</s>(2018-2019).
+A liderança do capítulo OWASP de Brasília atualmente é composta pelos seguintes membros: [Ulisses Alves](https://www.linkedin.com/in/ulissesalvesdias/) e [Luiz Henrique](https://www.linkedin.com/in/lhenriquefc/). Tivemos alguns membros (amigos) que deixaram suas marcas aqui como: <s>Paulo Lamellas</s>(2016-2018), <s>Régio Lopes</s>(2016-2018), <s>Rafael Salema</s>(2018-2019), [<s>Alcyon Junior (a.k.a. AlcyJones)</s>](https://www.linkedin.com/in/alcyon/)(-2021), <s>Marcos Cícero</s>(-2021), <s>André Miranda</s>(-2021) e <s>Renato Pacheco (a.k.a.Shrimp)</s>(-2021).
 
 Esperamos continuar realizando um trabalho agregador e disseminador de conhecimento em Brasília na área de Segurança da Informação. O que queremos é agitar e unir a comunidade de profissionais de Segurança da Informação, realizando encontros para que a galera possa bater um bom papo e principalmente de forma bem descontraída, mantendo a cultura hacker! 
 
-Grateful and sincerely,
+Sinceramente,
  
-[Alcyon Junior](https://www.linkedin.com/in/alcyon/)
+Liderança OWASP Brasília
 
 
 ---------------------
