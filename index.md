@@ -36,7 +36,7 @@ Liderança OWASP Brasília
   - **Inscrição (Registration link)**:
     <SOON>
   - **Data (Date/Time):** 06/03/2021 - 16h Horário de Brasília (2PM ET)
-  - **Local (Place):** Youtube (link disponível mediante inscrição no evento | link will be available uppon registration)
+  - **Local (Place):** Youtube (link disponível mediante inscrição no evento/link will be available uppon registration)
   - **Valores**: ***Gratuito (Free of charge)***
   
 ---------------------
