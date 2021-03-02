@@ -32,10 +32,12 @@ Liderança OWASP Brasília
 ---------------------
 # Próximos Eventos
 ---------------------
-#### 3º CyberSecurity Conference OWASP BSB (Cancelado devido à pandemia)
-  - Local: BIOTIC - SEBRAELAB (Parque Tecnológico de Brasília, Lote 4 Edifício de Governança, Brasília - DF, 70635-815)
-  - Data: 06 e 07 de Junho
-  - Demais informações disponibilizaremos em breve.
+#### Primeiro Meetup OWASP Brasília 2021
+  - **Inscrição (Registration link)**:
+    <SOON>
+  - **Data (Date/Time):** 06/03/2021 - 16h Horário de Brasília (2PM ET)
+  - **Local (Place):** Youtube (link disponível mediante inscrição no evento | link will be available uppon registration)
+  - **Valores**: ***Gratuito (Free of charge)***
   
 ---------------------
 # Call For Speakers
