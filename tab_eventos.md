@@ -1,4 +1,85 @@
-OLD
+## Eventos - 2021
+
+### Primeiro Meetup OWASP Brasília 2021
+
+**PT_BR**
+
+<div style="text-align: justify;">
+
+Olá, pessoal! É com grande satisfação que divulgo pra vocês o primeiro meetup do Capítulo OWASP Brasília de 2021.
+
+E pra começar o ano com o pé na porta, tenho o prazer de anunciar que teremos um convidado muito especial nesse primeiro evento: John Hammond!
+
+Ele topou participar do evento em forma de entrevista, então assim será! Serão quase duas horas de um conteúdo muito bacana que vai abordar carreira em infosec, muito CTF, caça de ameaças, ataques em aplicações web e muito mais!
+
+A entrevista acontecerá com tradução em tempo real. As perguntas serão lidas em português para os participantes e depois em inglês para ele. As respostas seguirão o mesmo princípio.
+
+Para aqueles que se inscreverem, será possível deixar uma pergunta para o convidado. Nós faremos o possível para usar todas as perguntas que recebermos, então caprichem no que quiserem saber.
+
+Para quem não conhece o convidado:
+
+Canal no Youtube: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
+
+Linkedin: https://www.linkedin.com/in/johnhammond010/
+
+Patreon: https://patreon.com/johnhammond010
+
+GitHub: https://github.com/JohnHammond
+
+Site: http://www.johnhammond.org
+
+Twitter: https://twitter.com/_johnhammond
+
+Gostou? Então se inscreva!
+
+**Formato do evento**
+
+Este meetup terá um formato de entrevista. Teremos um convidado que responderá perguntas pré montadas e também perguntas vindas da comunidade.
+
+**EN_US**
+
+<div style="text-align: justify;">
+
+Hello, everyone! It's with great pleasure that we bring to you the first meetup of the OWASP chapter Brasilia 2021
+
+And to start the year kicking the door down, I have the honor to announce that we'll have a very special guest for you: John Hammond!
+
+He agreed to participate in the event as an interview, so be it! There'll be almost two hours of content that will cover infosec career, a lot of CTFs, threat huntingm web application attacks and so much more!
+
+The interview will happen with real time translation. The questions will be read in portuguese to the brazilian atendees and after in english for him and our fellow firends from other countries. Answers will follow the same principle.
+
+To those who register for the event, it will be possible to leave a question for our guest. We'll do our best to use all of them.
+
+For those who don't know our guest:
+
+Youtube: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
+
+Linkedin: https://www.linkedin.com/in/johnhammond010/
+
+Patreon: https://patreon.com/johnhammond010
+
+GitHub: https://github.com/JohnHammond
+
+Website: http://www.johnhammond.org
+
+Twitter: https://twitter.com/_johnhammond
+
+Like it? So register now!
+
+**Event format**
+
+This meetup will have the format of an interview. We'll have a guest that is going to answer questions from us and from the audience.
+
+**Informações do Evento (Information)**
+
+  - **Inscrição (Registration link)**:
+    <SOON>
+  - **Data (Date/Time):** 06/03/2021 - 16h Horário de Brasília (2PM ET)
+  - **Local (Place):** Youtube (link disponível mediante inscrição no evento | link will be available uppon registration)
+  - **Valores**: ***Gratuito (Free of charge)***
+
+</div>
+
 ## Eventos - 2019
 
 ### 2º CyberSecurity Conference OWASP BSB 2019
