@@ -32,6 +32,9 @@ Liderança OWASP Brasília
 ---------------------
 # Próximos Eventos
 ---------------------
+
+{% include chapter_events.html group=page.meetup-group %}
+
 #### Primeiro Meetup OWASP Brasília 2021
   - **Inscrição (Registration link)**:
     <SOON>
