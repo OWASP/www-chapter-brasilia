@@ -92,11 +92,6 @@ um ambiente acolhedor e sempre com uma pegada bem técnica. Nós
 contaremos com minicursos, palestras, espaço de convivência para os
 participantes poderem trocar experiências.
 
-**Chamadas**
-
-  - CFP - Call for Papers: <https://forms.gle/5Qrn6esW6pPG57JN9>
-  - Chamada de Voluntários: <https://forms.gle/he9NuwAHLxm7D8XQ7>
-
 **Informações do Evento**
 
   - **Inscrição**:
