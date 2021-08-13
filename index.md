@@ -42,7 +42,3 @@ Liderança OWASP Brasília
   - **Local (Place):** Youtube (link disponível mediante inscrição no evento/link will be available uppon registration)
   - **Valores**: ***Gratuito (Free of charge)***
   
----------------------
-# Call For Speakers
----------------------
-A Chamada para Palestrantes está aberta! Se você quiser apresentar uma palestra sobre Segurança da Cibernética em futuros eventos do Capítulo da OWASP em Brasília - leia e concorde com o [Termo de compromisso de Palestrante](https://www.owasp.org/index.php/Speaker_Agreement) e preencha o formulário com informações como: biografia e alguns dados de contato aos Líderes do Capítulo: [Chamada de Palestrantes](https://forms.gle/EMryddqVTmPGUYm58)
