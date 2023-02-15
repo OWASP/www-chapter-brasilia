@@ -20,7 +20,7 @@ A OWASP Foundation é uma associação profissional de membros globais e está a
 ---------------------
 # OWASP Brasília
 ---------------------
-A liderança do capítulo OWASP de Brasília atualmente é composta pelos seguintes membros: [Ulisses Alves](https://www.linkedin.com/in/ulissesalvesdias/) e [Luiz Henrique](https://www.linkedin.com/in/lhenriquefc/). Tivemos alguns membros (amigos) que deixaram suas marcas aqui como: Paulo Lamellas(2016-2018), Régio Lopes(2016-2018), Rafael Salema(2018-2019), [Alcyon Junior (a.k.a. AlcyJones)](https://www.linkedin.com/in/alcyon/)(-2021), Marcos Cícero(-2021), André Miranda(-2021) e Renato Pacheco (a.k.a.Shrimp)(-2021).
+
 
 Esperamos continuar realizando um trabalho agregador e disseminador de conhecimento em Brasília na área de Segurança da Informação. O que queremos é agitar e unir a comunidade de profissionais de Segurança da Informação, realizando encontros para que a galera possa bater um bom papo e principalmente de forma bem descontraída, mantendo a cultura hacker! 
 
