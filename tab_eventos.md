@@ -1,3 +1,13 @@
+---
+title: ProximosEventos
+layout:  null
+tab: true
+order: 2
+tags: BSB
+---
+
+## Em construção
+
 ## Eventos - 2021
 
 ### Primeiro Meetup OWASP Brasília 2021
