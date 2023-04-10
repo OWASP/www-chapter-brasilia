@@ -6,8 +6,9 @@ tab: true
 order: 2
 tags: BSB
 ---
-
-## 2023 em construção
+---------------------
+## Eventos para 2023 em planejamento
+---------------------
 
 ## Eventos - 2021
 
