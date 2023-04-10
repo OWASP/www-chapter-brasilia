@@ -3,11 +3,10 @@
 layout: col-sidebar
 title: OWASP Brasilia
 tags: BSB
-level: 0
 region: South America
 meetup-group: OWASPBSB
 country: Brazil
-postal-code: 
+postal-code: 70000-000
 
 ---
 
