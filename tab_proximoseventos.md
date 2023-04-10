@@ -1,5 +1,5 @@
 ---
-title: Proximos Eventos
+title: ProximosEventos
 layout:  null
 tab: true
 order: 2
