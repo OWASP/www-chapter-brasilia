@@ -35,10 +35,10 @@ Liderança OWASP Brasília
 
 {% include chapter_events.html group=page.meetup-group %}
 
-#### Primeiro Meetup OWASP Brasília 2021
+#### Meetup OWASP Brasília 2023
   - **Inscrição (Registration link)**:
     <SOON>
-  - **Data (Date/Time):** 06/03/2021 - 16h Horário de Brasília (2PM ET)
+  - **Data (Date/Time):** xx/xx/2023 - xxh Horário de Brasília (2PM ET)
   - **Local (Place):** Youtube (link disponível mediante inscrição no evento/link will be available uppon registration)
   - **Valores**: ***Gratuito (Free of charge)***
   
