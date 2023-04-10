@@ -10,6 +10,42 @@ tags: BSB
 ---
 
 ---------------------
+## Eventos - 2021
+---------------------
+
+### Meetup OWASP Brasília 2021
+
+Olá, pessoal! É com grande satisfação que divulgo pra vocês o primeiro meetup do Capítulo OWASP Brasília de 2021.
+
+E pra começar o ano com o pé na porta, tenho o prazer de anunciar que teremos um convidado muito especial nesse primeiro evento: John Hammond!
+
+Ele topou participar do evento em forma de entrevista, então assim será! Serão quase duas horas de um conteúdo muito bacana que vai abordar carreira em infosec, muito CTF, caça de ameaças, ataques em aplicações web e muito mais!
+
+A entrevista acontecerá com tradução em tempo real. As perguntas serão lidas em português para os participantes e depois em inglês para ele. As respostas seguirão o mesmo princípio.
+
+Para aqueles que se inscreverem, será possível deixar uma pergunta para o convidado. Nós faremos o possível para usar todas as perguntas que recebermos, então caprichem no que quiserem saber.
+
+Para quem não conhece o convidado:
+
+Canal no Youtube: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
+
+Linkedin: https://www.linkedin.com/in/johnhammond010/
+
+Patreon: https://patreon.com/johnhammond010
+
+GitHub: https://github.com/JohnHammond
+
+Site: http://www.johnhammond.org
+
+Twitter: https://twitter.com/_johnhammond
+
+Gostou? Então se inscreva!
+
+**Formato do evento**
+
+Este meetup terá um formato de entrevista. Teremos um convidado que responderá perguntas pré montadas e também perguntas vindas da comunidade.
+
+---------------------
 ## Eventos - 2019
 ---------------------
 ### 2º CyberSecurity Conference OWASP BSB 2019
