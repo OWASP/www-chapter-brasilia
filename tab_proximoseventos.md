@@ -1,5 +1,6 @@
 ---
 title: ProximosEventos
+displaytext: Próximos Eventos
 layout:  null
 tab: true
 order: 2
