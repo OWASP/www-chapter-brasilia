@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Brasilia
-tags: owaspbsb
+tags: BSB
 level: 0
 region: South America
 meetup-group: OWASPBSB
@@ -10,6 +10,8 @@ country: Brazil
 postal-code: 
 
 ---
+
+![OWASP BSB](/assets/images/OWASP_Brasília_Chapter.png)
 
 ---------------------
 # O que é a OWASP?
