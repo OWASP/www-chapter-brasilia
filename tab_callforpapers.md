@@ -1,19 +1,20 @@
 ---
 title: CallForPapers
+displaytext: Call 4 Talks
 layout:  null
 tab: true
-order: 1
-tags: EXEMPLO
+order: 3
+tags: BSB
 ---
 
-## Quer palestrar em um evento?
+## Quer palestrar em nosso evento?
 
-Preenche este [formulário](https://forms.gle/gXE6oVaJgtxidaCXA){:target='_blank'} e logo entraremos em contato!
-
-<p></p>
-
-Como a missão do capítulo é fortalecer e ajudar a nossa comunidade local de Goiânia-Goiás, estamos aceitando call for papers somente de pessoas do estado de Goiás, pois o foco principal desse capitulo é incentivar o crescimento da OWASP na nossa região.
+O capítulo Brasília está sempre aberto para receber novos palestrantes. Submeta sua palestra por meio do nosso [formulário de Call For Papers](https://forms.gle/8aFKVw1RGzg8mN5b9){:target='_blank'} ou fale diretamente com a liderança pelo e-mail owasp-brasilia-chapter@googlegroups.com
 
 <p></p>
 
-Desde então, muito obrigado!
+Não é necessário que seu trabalho esteja concluído ou em um layout específico, nós o apoiaremos se necessário na formatação do material.
+
+<p></p>
+
+Agradecemos por seu interesse em colaborar com o fortalecimento da comunidade!
