@@ -9,7 +9,7 @@ tags: BSB
 
 ## Quer palestrar em nosso evento?
 
-O capítulo Brasília está sempre aberto para receber novos palestrantes. Submeta sua palestra por meio do nosso [formulário de Call For Papers](https://forms.gle/8aFKVw1RGzg8mN5b9){:target='_blank'} ou fale diretamente com a liderança pelo e-mail owasp-brasilia-chapter@googlegroups.com
+O capítulo Brasília está sempre aberto para receber novos palestrantes. Submeta sua palestra por meio do nosso [formulário de Call For Papers](https://forms.gle/8aFKVw1RGzg8mN5b9){:target='_blank'} ou fale diretamente com a liderança pelo e-mail [owasp-brasilia-chapter@googlegroups.com](mailto:owasp-brasilia-chapter@googlegroups.com){:target='_blank'}
 
 <p></p>
 
