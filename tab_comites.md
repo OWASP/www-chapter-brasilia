@@ -7,11 +7,12 @@ order: 4
 tags: BSB
 ---
 
-# Comitês Capítulo Brasília
-### Abaixo segue os comitês e seus respectivos responsáveis!
+# Abaixo segue os comitês e seus respectivos responsáveis!
+O capítulo de Brasília está implementando uma abordagem de organização baseada em comitês, que tem como objetivo melhorar e facilitar a dinâmica dentro do grupo. Essa estratégia visa promover uma colaboração mais estruturada e focada, onde cada comitê se dedica a tarefas específicas.
 
+<p></p>
 
-| Membro da liderança | Comitê |
+| Responsável | Comitê |
 | ------------------- | --------------- |
 | [Reison Florindo](https://www.linkedin.com/in/reison/)     | Redes Socais
 | [Antony Leite](https://www.linkedin.com/in/antonyleite/)        | Conteúdo
@@ -20,6 +21,4 @@ tags: BSB
 | [Geovana Silva](https://www.linkedin.com/in/geovana-silva) | Tesouraria
 | | Assuntos Internos
 | [Dimas Sulz](https://www.linkedin.com/in/dimas-sulz/) | Colaboração
-
-
 
