@@ -3,7 +3,7 @@ title: Comitês
 layout:  null
 tab: true
 order: 4
-tags: comites, bsb
+tags: BSB
 ---
 
 # Comitês Capítulo Brasília
