@@ -1,5 +1,6 @@
 ---
-title: Comitês
+title: comites
+displaytext: Comitês
 layout:  null
 tab: true
 order: 4
