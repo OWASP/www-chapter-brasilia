@@ -6,6 +6,5 @@
 
 ### Social Links
 * [MeetUP.com](https://www.meetup.com/pt-BR/OWASPBSB/)
-
 * [FaceBook](https://www.facebook.com/OWASPBSB/)
 * [Telegram](https://telegram.me/secbsb)
