@@ -5,6 +5,4 @@
 * [Codigo de Conduta](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
-* [MeetUP.com](https://www.meetup.com/pt-BR/OWASPBSB/)
-* [FaceBook](https://www.facebook.com/OWASPBSB/)
-* [Telegram](https://telegram.me/secbsb)
+* [MeetUP.com](https://www.meetup.com/owasp-brasilia-chapter/)
