@@ -37,9 +37,9 @@ Liderança OWASP Brasília
 {% include chapter_events.html group=page.meetup-group %}
 
 #### Meetup OWASP Brasília 2023
-  - **Inscrição (Registration link)**:
+  - **Inscrição (Registration link)**: https://www.meetup.com/owasp-brasilia-chapter/events/297532268/
     <SOON>
-  - **Data (Date/Time):** xx/xx/2023 - xxh Horário de Brasília (2PM ET)
-  - **Local (Place):** Youtube (link disponível mediante inscrição no evento/link will be available uppon registration)
+  - **Data (Date/Time):** 29/11/2023 - 20h Horário de Brasília (2PM ET)
+  - **Local (Place):** Youtube www.youtube.com/@Owasp_Brasilia
   - **Valores**: ***Gratuito (Free of charge)***
   
