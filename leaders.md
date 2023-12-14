@@ -2,7 +2,9 @@
 
 * [Anderson Alves](mailto:anderson.alves@owasp.org)
 * [Antony Leite](mailto:antony.leite@owasp.org)
-* [Reison Florindo](mailto:reison.florindo@owasp.org)
+* [Julia Jamile](mailto:julia.jamile@owasp.org)
+* [Geovana Melo](mailto:geovana.melo@owasp.org)
+* [Vitor Mauricio](mailto:vitor.mauricio@owasp.org)
 
 
 
