@@ -1,10 +1,10 @@
-### Leaders
+### Leader
+* [Anderson Alves](mailto:anderson.alves@owasp.org)
 
-* [Antony Leite](mailto:antony.leite@owasp.org)
+### Co-Leaders
 * [Julia Jamile](mailto:julia.jamile@owasp.org)
 * [Geovana Melo](mailto:geovana.melo@owasp.org)
-* [Vitor Mauricio](mailto:vitor.mauricio@owasp.org)
-
-
+* [Carlos Lago](mailto:carlos.lago@owasp.org)
+* [Gabriel Nunes](mailto:gabriel.nunes@owasp.org)
 
 
