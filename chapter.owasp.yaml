@@ -1,0 +1,35 @@
+community:
+  - name: chapter-brasilia
+    platform: slack
+    url: https://owasp.slack.com/archives/C0606T3GA3W
+    description: Trata-se de uma fundação sem fins lucrativos dedicada a melhorar a segurança de software. Independentemente do seu nível de conhecimento,
+      contribua participando dos chats, projetos, tradução de documentos relacionados ao OWASP e muito mais.
+leaders:
+  - name: Antony Leite
+    email: antony.leite@owasp.org
+  - name: Julia Jamile
+    email: julia.jamile@owasp.org
+  - name: Geovana Melo
+    email: geovana.melo@owasp.org
+    github: GeovanaMelo
+  - name: Vitor Mauricio
+    email: vitor.mauricio@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Federal District
+  city: Brasília
+  postal_code: 70000-000
+  latitude: -15.7995244
+  longitude: -47.86409514458715
+meetup_group: OWASPBSB
+name: OWASP Brasilia
+repositories:
+  - name: www-chapter-brasilia
+    url: https://github.com/OWASP/www-chapter-brasilia
+    description: OWASP Foundation Web Repository
+tags:
+  - BSB
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-brasilia
